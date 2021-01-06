@@ -11,7 +11,6 @@ namespace WebApplicationWithVs2019.Controllers
         public ActionResult Index()
         {
             return View();
-
         }
 
         public ActionResult About()
