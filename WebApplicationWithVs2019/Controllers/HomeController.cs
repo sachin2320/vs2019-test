@@ -15,7 +15,7 @@ namespace WebApplicationWithVs2019.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page, testing.";
+            ViewBag.Message = "Your application description page, testing new.";
 
             return View();
         }
