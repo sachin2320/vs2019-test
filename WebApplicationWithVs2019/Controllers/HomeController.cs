@@ -22,7 +22,7 @@ namespace WebApplicationWithVs2019.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your contact page. deployed automatically";
 
             return View();
         }
