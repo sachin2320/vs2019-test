@@ -15,7 +15,7 @@ namespace WebApplicationWithVs2019.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page, testing new. checking automatic deployment";
+            ViewBag.Message = "Auto deploy with git and jenkins";
             return View();
         }
 
