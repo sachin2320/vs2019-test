@@ -16,7 +16,6 @@ namespace WebApplicationWithVs2019.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page, testing new. checking automatic deployment";
-
             return View();
         }
 
